@@ -1,8 +1,17 @@
-# React + Vite
+<h1>주제 : 민속박물관 사이트를 react로 작업하기</h1><br><br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<ul>
+  <li>컴포넌트 만들기 </li>
+  <li>컴포넌트 분리</li>
+  <li>데이터 전달  : props</li>
+  <li>스타일  : scss</li>
+  <li>데이터 객체  : data 만들기</li
+</ul>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+
+
