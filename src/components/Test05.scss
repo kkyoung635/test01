@@ -1,0 +1,24 @@
+.wrap {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 20px;
+    &.on {
+        background: pink;
+    }
+    &.off {
+        background: tomato;
+    }
+    h2 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+    p {
+        margin-top: 30px;
+        button {
+            padding: 25px 25px;
+            margin-right: 10px;
+        }
+    }
+}
